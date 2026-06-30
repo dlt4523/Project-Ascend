@@ -1,63 +1,45 @@
 # Project Ascend
 
-**Studio:** Nova Forge Studios
+## Información General
 
-**Version:** 0.1
+**Estudio:** Nova Forge Studios
 
-**Engine:** Roblox Studio
+**Versión:** 0.0.1
 
-**Created by:** Nova Forge Studios
-
----
-
-# Vision
-
-Create an adventure and progression game where every new world feels like a true discovery.
-
-The player should always have something new to unlock, explore or improve.
+**Motor:** Roblox Studio
 
 ---
 
-# Core Gameplay Loop
+# Visión del juego
 
-Explore
+Project Ascend es un juego de aventura y progresión donde el jugador explora mundos fantásticos, obtiene recursos, mejora su equipo y derrota guardianes para liberar nuevas tierras.
 
-↓
-
-Collect Resources
-
-↓
-
-Craft Better Equipment
-
-↓
-
-Fight Enemies
-
-↓
-
-Defeat Boss
-
-↓
-
-Unlock New World
-
-↓
-
-Repeat
+Nuestro objetivo es crear un juego divertido que premie la exploración y el progreso constante.
 
 ---
 
-# Current Status
+# Gameplay Principal
 
-🟢 Planning Phase
+1. Explorar
+2. Recolectar recursos
+3. Fabricar mejores herramientas
+4. Derrotar enemigos
+5. Enfrentar al jefe del mundo
+6. Desbloquear el siguiente mundo
+7. Repetir
 
 ---
 
-# Goals
+# Objetivos del jugador
 
-- Create a unique progression game.
-- Make every world memorable.
-- Reward exploration.
-- Avoid Pay to Win.
-- Release Version 1.0 before the end of the year.
+- Conseguir mejores armas.
+- Conseguir mejores armaduras.
+- Desbloquear nuevos mundos.
+- Obtener encantamientos.
+- Completar la colección de objetos.
+
+---
+
+# Estado del Proyecto
+
+🟢 Planeación
